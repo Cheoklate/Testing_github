@@ -1,4 +1,4 @@
 var main = function (input) {
-  var myOutputValue = 'hello world';
+  var myOutputValue = 'Chicken rice is almost as nice as duck rice.';
   return myOutputValue;
 };
